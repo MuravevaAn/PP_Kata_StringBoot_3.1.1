@@ -1,4 +1,4 @@
-package com.muraveva.springboot.controllers;
+package com.muraveva.springboot.config;
 
 import com.muraveva.springboot.model.User;
 import com.muraveva.springboot.service.UserService;
